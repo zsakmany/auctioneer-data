@@ -74,7 +74,7 @@ AucAdvancedServers = {
 		["Bloodscalp"] = "#Bloodscalp",
 	},
 	["KnownServerKeys"] = {
-		["#Bloodscalp"] = 1511435943,
+		["#Bloodscalp"] = 1511512295,
 	},
 	["Timestamp"] = 1511387473,
 }
